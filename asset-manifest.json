@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/akgec/static/css/main.2c7124a4.chunk.css",
+    "main.js": "/akgec/static/js/main.c18b7ff2.chunk.js",
+    "main.js.map": "/akgec/static/js/main.c18b7ff2.chunk.js.map",
+    "runtime-main.js": "/akgec/static/js/runtime-main.492b7b1c.js",
+    "runtime-main.js.map": "/akgec/static/js/runtime-main.492b7b1c.js.map",
+    "static/js/2.7a982b93.chunk.js": "/akgec/static/js/2.7a982b93.chunk.js",
+    "static/js/2.7a982b93.chunk.js.map": "/akgec/static/js/2.7a982b93.chunk.js.map",
+    "index.html": "/akgec/index.html",
+    "precache-manifest.be04b78865281f165ddd0056e7052624.js": "/akgec/precache-manifest.be04b78865281f165ddd0056e7052624.js",
+    "service-worker.js": "/akgec/service-worker.js",
+    "static/css/main.2c7124a4.chunk.css.map": "/akgec/static/css/main.2c7124a4.chunk.css.map",
+    "static/js/2.7a982b93.chunk.js.LICENSE.txt": "/akgec/static/js/2.7a982b93.chunk.js.LICENSE.txt",
+    "static/media/Calendar.png": "/akgec/static/media/Calendar.1f7d5093.png",
+    "static/media/aboutimg.png": "/akgec/static/media/aboutimg.e3e4b249.png",
+    "static/media/footerLogo.png": "/akgec/static/media/footerLogo.61123d7a.png",
+    "static/media/homepage.jpg": "/akgec/static/media/homepage.3053a670.jpg",
+    "static/media/projectimg.png": "/akgec/static/media/projectimg.a7498669.png",
+    "static/media/teamimg.png": "/akgec/static/media/teamimg.a4f65060.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.492b7b1c.js",
+    "static/js/2.7a982b93.chunk.js",
+    "static/css/main.2c7124a4.chunk.css",
+    "static/js/main.c18b7ff2.chunk.js"
+  ]
+}
